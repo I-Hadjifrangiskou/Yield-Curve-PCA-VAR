@@ -4,7 +4,7 @@ This project applies Principal Component Analysis (PCA) to the U.S. Treasury yie
 
 ---
 
-## 📈 Objectives
+## Objectives
 
 - Understand yield curve dynamics via PCA
 - Reconstruct yield curves using the top 3 factors
@@ -14,7 +14,7 @@ This project applies Principal Component Analysis (PCA) to the U.S. Treasury yie
 
 ---
 
-## 📊 PCA Analysis
+## PCA Analysis
 
 ### Cumulative Explained Variance
 
@@ -64,7 +64,7 @@ Relative reconstruction error stays below **1%** for most of the period, droppin
 
 ---
 
-## 💣 VaR Simulation & Portfolio Risk
+## VaR Simulation & Portfolio Risk
 
 We simulate 1-day changes in yield curve factors and translate them into bond price changes using:
 
@@ -97,7 +97,7 @@ for a **5Y zero-coupon bond**, where \( D \) is the modified duration.
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - PCA yields strong dimensionality reduction: 3 factors suffice.
 - Bond risk simulation based on yield factor behavior captures realistic dynamics.
@@ -115,7 +115,7 @@ README.md                   # Project documentation
 
 ---
 
-## 🔍 Extensions
+## Extensions
 
 - Portfolio of multiple bonds across maturities
 - Expected Shortfall (CVaR)
@@ -124,7 +124,7 @@ README.md                   # Project documentation
 
 ---
 
-## 📚 Dependencies
+## Dependencies
 
 - numpy
 - pandas
