@@ -68,11 +68,11 @@ Relative reconstruction error stays below **1%** for most of the period, droppin
 
 We simulate 1-day changes in yield curve factors and translate them into bond price changes using:
 
-\[
-$\Delta P \approx -D \cdot \Delta y$
-\]
 
-for a **5Y zero-coupon bond**, where \( D \) is the modified duration.
+$\Delta P \approx -D \cdot \Delta y$
+
+
+for a **5Y zero-coupon bond**, where \( $D$ \) is the modified duration.
 
 ---
 
