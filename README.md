@@ -1,6 +1,6 @@
 # Yield Curve PCA Analysis & Value-at-Risk Simulation
 
-This project applies Principal Component Analysis (PCA) to the U.S. Treasury yield curve and extends it to simulate portfolio risk via Value-at-Risk (VaR) using yield factor dynamics. The approach is based entirely on data-driven components and econometric modeling of principal components.
+This project applies Principal Component Analysis (PCA) to the U.S. Treasury yield curve and extends it to simulate portfolio risk via Value-at-Risk (VaR) using yield factor dynamics. The approach is based on data-driven components and econometric modeling of principal components.
 
 ---
 
